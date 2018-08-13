@@ -37,6 +37,8 @@ public class Reg extends HttpServlet {
         PrintWriter pw = resp.getWriter();
         System.out.println("change check");
 
+        System.out.println("new branch");
+
 
 
     }
