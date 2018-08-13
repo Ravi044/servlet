@@ -35,7 +35,7 @@ public class Reg extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
         PrintWriter pw = resp.getWriter();
-        
+        System.out.println("change check");
 
 
 
